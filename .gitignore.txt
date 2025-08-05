@@ -1,0 +1,7 @@
+# Ignore IDE project files
+*.iml
+.idea/
+.vscode/
+
+# Ignore config file with password
+src/config.properties
